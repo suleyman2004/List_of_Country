@@ -1,0 +1,30 @@
+.list_country{
+    list-style-type: none;
+    
+}
+
+.list_country .show{
+    font-size: 30px;
+}
+
+.list_country .hidden , .list_country .button_hidden{
+    display: none;
+}
+
+.list_country .button_show{
+    font-size: 25px;
+    padding: 7px;
+    border-radius: 20px;
+}
+
+.list_country .up {
+    display: block;
+    width: 100%;
+}
+.list_country .down{
+    display: block;
+}
+.list_country .button{
+    margin-top: 7px;
+    margin-bottom: 30px;
+}
